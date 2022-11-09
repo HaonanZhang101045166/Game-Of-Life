@@ -1,0 +1,3 @@
+Haonan Zhang
+The compile command specified in _compile, for runing command specified in _run 
+mpiexec -np processnumber --hostfile _hostfile main N K M input.txt
